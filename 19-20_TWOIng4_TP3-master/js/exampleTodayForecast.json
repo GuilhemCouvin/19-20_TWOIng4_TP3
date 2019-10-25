@@ -1,0 +1,94 @@
+{
+  "coord": { "lon": 2.35, "lat": 48.86 },
+  "weather": [
+    { "id": 501, "main": "Rain", "description": "moderate rain", "icon": "10n" }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 15.71,
+    "pressure": 1006,
+    "humidity": 87,
+    "temp_min": 14.44,
+    "temp_max": 17.22
+  },
+  "visibility": 10000,
+  "wind": { "speed": 5.1, "deg": 210 },
+  "clouds": { "all": 100 },
+  "dt": 1571085173,
+  "sys": {
+    "type": 1,
+    "id": 6550,
+    "message": 0.0074,
+    "country": "FR",
+    "sunrise": 1571033314,
+    "sunset": 1571072670
+  },
+  "timezone": 7200,
+  "id": 2988507,
+  "name": "Paris",
+  "cod": 200
+}
+
+
+
+{"city":{"id":2988507,"name":"Paris","coord":{"lon":2.3515,"lat":48.8566},"country":"FR","population":2138551,"timezone":7200},"cod":"200","message":0.9221748,"cnt":3,
+  "list" : [
+    {
+      "dt":1572001200,
+      "sunrise":1571984734,
+      "sunset":1572021815,
+
+      "temp":{
+        "day":16.36,
+        "min":13.99,
+        "max":16.36,
+        "night":13.99,
+        "eve":15.25,
+        "morn":16.36
+      },
+
+      "pressure":1019,
+      "humidity":75,
+      "weather":[
+        {
+          "id":804,
+          "main":"Clouds",
+          "description":"overcast clouds",
+          "icon":"04d"
+        }
+      ],
+      "speed":4.98,
+      "deg":204,
+      "clouds":100
+      },
+      {
+        "dt":1572087600,
+        "sunrise":1572071229,
+        "sunset":1572108108,
+        "temp":{
+          "day":18.58,
+          "min":12.64,
+          "max":19.45,
+          "night":15,
+          "eve":17.46,
+          "morn":12.64
+        },
+        "pressure":1016,
+        "humidity":50,
+        "weather":[
+          {
+            "id":804,
+            "main":"Clouds",
+            "description":"overcast clouds",
+            "icon":"04d"
+          }
+        ],
+        "speed":5.63,
+        "deg":196,
+        "clouds":100
+      },
+
+
+      
+        {"dt":1572174000,"sunrise":1572157724,"sunset":1572194402,"temp":{"day":9.76,"min":7.95,"max":13.15,"night":7.95,"eve":8.82,"morn":13.15},"pressure":1022,"humidity":83,"weather":[{"id":501,"main":"Rain","description":"moderate rain","icon":"10d"}],"speed":3.74,"deg":34,"clouds":100,"rain":4.88}]
+    }
